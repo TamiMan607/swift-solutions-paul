@@ -1,0 +1,26 @@
+{
+  "name": "swift-solutions-paul",
+  "description": "swift-solutions-paul",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/GabrielBruna264",
+  "repository": {
+    "url": "https://github.com/GabrielBruna264/byte-burst-fathy"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "swift",
+    "solutions",
+    "project"
+  ],
+  "author": "GabrielBruna264",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
